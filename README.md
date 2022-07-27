@@ -1,0 +1,2 @@
+# privacyidea
+install pivayidea server
