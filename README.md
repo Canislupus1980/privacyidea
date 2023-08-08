@@ -1,6 +1,6 @@
 ![privacyidea](https://daasi.de/wp-content/uploads/2021/04/privacyIDEA-800px-300x162.png)
 # Privacyidea
-## Install pivacyidea server
+## Install privacyidea server
 
 ### Passwd admin
 ```bash
